@@ -29,7 +29,7 @@ lib/
 
 | Login | Announcements | FAQ |
 |-------|---------------|-----|
-| ![Login](docs/screenshots/login.jpg) | ![Announcements](docs/screenshots/notifications.jpg) | ![FAQ](docs/screenshots/faq.jpg) |
+| ![Login](docs/screenshots/login_page.jpg) | ![Announcements](docs/screenshots/notifications.jpg) | ![FAQ](docs/screenshots/faq.jpg) |
 
 | Inquiry | Profile | Delete Account |
 |---------|---------|----------------|

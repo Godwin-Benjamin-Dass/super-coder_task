@@ -35,6 +35,14 @@ lib/
 |---------|---------|----------------|
 | ![Inquiry](docs/screenshots/inquiries.jpg) | ![Profile](docs/screenshots/profile_image.jpg) | ![Delete Account](docs/screenshots/delete.jpg) |
 
+| Edit Profile | Campaign | intrestes |
+|---------|---------|----------------|
+| ![Edit Profile](docs/screenshots/edit_profile.jpg) | ![Campaign](docs/screenshots/campaings.jpg) | ![intrestes](docs/screenshots/intrestes.jpg) |
+
+| Edit Profile | Password | 
+|---------|---------|
+| ![Edit Profile](docs/screenshots/edit_profile.jpg) |![Password](docs/screenshots/passwors.jpg) | 
+
 ---
 
 ## 📦 Dependencies
